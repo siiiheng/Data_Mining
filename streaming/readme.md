@@ -1,4 +1,4 @@
-# In this assignment, you are going to implement three streaming algorithms
+Implement three streaming algorithms
 Bloom Filtering
 
 Flajolet-Martin algorithm
